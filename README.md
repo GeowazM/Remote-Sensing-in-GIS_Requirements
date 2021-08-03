@@ -36,6 +36,4 @@ Here you can find two tutorials to install the software Anaconda
 
 
 ---
-More information & tutorials:
-- [SCP blog](https://fromgistors.blogspot.com/)
-- [SCP youtube channel](https://www.youtube.com/user/fromgistors)
+
